@@ -1,0 +1,9 @@
+List Yapısı Programı
+****************************
+Bu proje, Windows Forms uygulaması kullanılarak geliştirilen bir listeleme sistemidir.
+Program üç ana bölümden oluşmaktadır: Kişi listeleme, sayı listeleme ve kullanıcı bilgilerini listeleme.
+İlk bölümde, sabit bir kişi listesi oluşturularak bir ListBox içinde görüntülenir. 
+İkinci bölümde, belirli sayılar bir listeye eklenir ve 5'e bölünebilen sayılar ayrı bir ListBox içinde gösterilir. 
+Aynı zamanda, kullanıcıdan girilen bir sayının listede olup olmadığı kontrol edilip, sonuç bir mesaj kutusu ile bildirilir. 
+Son bölümde ise, KISILER sınıfı kullanılarak ad, soyad ve meslek bilgileri bir listeye eklenir ve ekranda gösterilir.
+Bu proje, temel listeleme, sınıf kullanımı ve kullanıcı etkileşimi gibi önemli programlama konularını içermektedir.

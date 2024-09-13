@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\bin\Debug\ListYapisi.exe.config
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\bin\Debug\ListYapisi.exe
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\bin\Debug\ListYapisi.pdb
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.Form1.resources
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.Properties.Resources.resources
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.exe
+C:\Users\Semiha\Desktop\ListYapisi\ListYapisi\obj\Debug\ListYapisi.pdb
